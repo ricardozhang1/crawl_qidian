@@ -1,0 +1,2 @@
+# crawl_qidian
+使用Scrapy爬取起点中文网的小说，并储存到MongoDB集群中
